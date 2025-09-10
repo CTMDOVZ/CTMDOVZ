@@ -1,8 +1,8 @@
 # ¡Hola! Soy Mateo Espinoza Monti 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](TU_PORTAFOLIO)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN) 
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](TU_PORTAFOLIO) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CTMDOVZ)  
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 En lo que estoy trabajando y aprendiendo:
+## 🚀 En lo que estoy trabajando y aprendiendo
 - Mejorando la **plataforma Animate**, un asistente virtual educativo con IA para apoyar a docentes y estudiantes de secundaria.  
 - Profundizando en **machine learning** con Python y C++ para reconocimiento facial de emociones.  
 - Diseñando e implementando **APIs RESTful seguras** con Node.js, Express y JWT.  
@@ -19,14 +19,14 @@
 
 ---
 
-## 🎯 Actualmente me interesa:
+## 🎯 Actualmente me interesa
 - Proyectos de **optimización de procesos con IA**.  
 - Aplicaciones full-stack con **Node.js, React y MongoDB**.  
 - Escalar soluciones educativas y de impacto social en entornos reales.  
 
 ---
 
-## 💬 Puedes preguntarme sobre:
+## 💬 Puedes preguntarme sobre
 - Desarrollo backend con **Node.js, Express, Java (Spring Boot) y Python**.  
 - Integración y gestión de bases de datos **PostgreSQL y MongoDB**.  
 - **Machine Learning** aplicado a visión computacional y análisis de datos.  
@@ -36,23 +36,11 @@
 
 ## 🛠️ Mi Stack de Tecnologías  
 
-**Lenguajes y Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-
-**Frameworks & Libraries:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-
-**Bases de Datos y Cloud:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,java,nodejs,express,react,spring,mongodb,postgres,docker,aws,git,vscode&perline=7" />
+  </a>
+</p>
 
 ---
 
@@ -73,12 +61,13 @@
 
 ## 📊 GitHub Stats  
 
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CTMDOVZ&show_icons=true&theme=radical" alt="Mateo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTMDOVZ&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
 ## 📫 ¿Hablamos?
 📩 Puedes escribirme a: **mateoesmo12@gmail.com**  
 🌍 O encontrarme en mis redes de arriba.  
-
